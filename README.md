@@ -1,16 +1,11 @@
 # flutter_crop_and_trim_video
 
-A flutter project demonstrating how to crop and trim a video using ffmpeg kit
+A flutter project demonstrating how to crop and trim a video using ffmpeg kit.
+
+![resized_screen](https://user-images.githubusercontent.com/28054527/188300949-4521bc87-0aaf-4f51-bc9a-75731e7eaec2.png)
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials, samples, guidance on
-mobile development, and a full API reference.
+Flutter project compiled with:
+  - Flutter 3.0.5 
+  - Android Studio (version 2021.2)
